@@ -1,0 +1,6 @@
+@SpeedyAPI_HostAddress = http://localhost:5074
+
+GET {{SpeedyAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
